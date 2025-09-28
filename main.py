@@ -19,7 +19,7 @@ banner = f"""
                             .+       +.                          
                            :#         #:                         
                           =%           %-                        
-           {lrd}REPORTER{k}     -*%.   {g}SpiDer{k}   .%+    {be}TELEGRAM      {k}       
+           {lrd}REPORTER{k}     -*%.   {g}SHADOW-X{k}   .%+    {be}TELEGRAM      {k}       
                         #@:             -@#                      
                      :  #@:             :@*  :                   
                     -=  *@:             -@*  =-                  
@@ -39,7 +39,7 @@ banner = f"""
                 +:   %@:   =%         %=   :@%   -+              
                  -.  +@+                   +@+  .-               
                   .  :@#                   #@:  .                
-                      %@.    {cn}@EsFelUrM{k}    .@%                    
+                      %@.    {cn}SHADOW-X{k}    .@%                    
                       :+@:               =@+:                    
                         =@:             :@-                      
                          -%.           .%:                       
